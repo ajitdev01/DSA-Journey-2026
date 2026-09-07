@@ -812,6 +812,7 @@ fail2ban-client status
 | [0007-reverse-integer](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
@@ -849,6 +850,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0069-sqrtx) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
@@ -1148,4 +1150,8 @@ fail2ban-client status
 | ------- |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0229-majority-element-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
