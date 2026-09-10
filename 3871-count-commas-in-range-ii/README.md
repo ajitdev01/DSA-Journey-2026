@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-commas-in-range-ii/?envType=daily-question&envId=2026-09-09">4248. Count Commas in Range II</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-commas-in-range-ii/">4248. Count Commas in Range II</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code>.</p>
 
 <p>Return the <strong>total</strong> number of commas used when writing all integers from <code>[1, n]</code> (inclusive) in <strong>standard</strong> number formatting.</p>
 
