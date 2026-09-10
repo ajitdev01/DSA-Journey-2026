@@ -1,13 +1,34 @@
 class Solution {
 public:
     long long countCommas(long long n) {
-       long long ans = 0;
-       for(long long i = 1000; i<=n ; i*=1000){
-         ans += n - i+1;
+        long long ans = 0;
 
-         if(i > n/1000)
-           break;
-       }
-       return ans;
+        // 1,000 to 999,999
+        if (n >= 1000) {
+            ans += min(n, 999999LL) - 1000 + 1;
+        }
+
+        // 1,000,000 to 999,999,999
+        if (n >= 1000000) {
+            ans += 2LL * (min(n, 999999999LL) - 1000000 + 1);
+        }
+
+        // 1,000,000,000 to 999,999,999,999
+        if (n >= 1000000000LL) {
+            ans += 3LL * (min(n, 999999999999LL) - 1000000000LL + 1);
+        }
+
+        // 1,000,000,000,000 to 999,999,999,999,999
+        if (n >= 1000000000000LL) {
+            ans += 4LL * (min(n, 999999999999999LL)
+                         - 1000000000000LL + 1);
+        }
+
+        // 1,000,000,000,000,000 to n
+        if (n >= 1000000000000000LL) {
+            ans += 5LL * (n - 1000000000000000LL + 1);
+        }
+
+        return ans;
     }
 };
