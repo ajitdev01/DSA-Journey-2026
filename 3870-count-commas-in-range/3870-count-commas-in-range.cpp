@@ -11,7 +11,7 @@
 // };
 
 
-////// more optimized
+////// more optimize
 class Solution {
 public:
     int countCommas(int n) {
