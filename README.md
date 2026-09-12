@@ -823,6 +823,7 @@ fail2ban-client status
 | [0335-self-crossing](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 | [0458-poor-pigs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1065,6 +1066,7 @@ fail2ban-client status
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0479-largest-palindrome-product) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
