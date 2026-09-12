@@ -3,25 +3,26 @@ public:
     int largestPalindrome(int n) {
         if (n == 1) return 9;
 
-        long long upper = pow(10, n) - 1;
-        long long lower = pow(10, n - 1);
+        long long high = 1;
+        for (int i = 0; i < n; i++)
+            high *= 10;
+        high--;
 
-        for (long long left = upper; left >= lower; --left) {
-            // Create palindrome: left + reverse(left)
+        long long low = high / 10 + 1;
+
+        for (long long left = high; left >= low; --left) {
             string s = to_string(left);
-            string rev = s;
-            reverse(rev.begin(), rev.end());
+            string r = s;
+            reverse(r.begin(), r.end());
 
-            long long palindrome = stoll(s + rev);
+            long long pal = stoll(s + r);
 
-            // Check whether palindrome = x * y
-            for (long long x = upper; x * x >= palindrome; --x) {
-                if (palindrome % x == 0) {
-                    long long y = palindrome / x;
+            for (long long x = high; x * x >= pal; --x) {
+                if (pal % x == 0) {
+                    long long y = pal / x;
 
-                    if (y >= lower && y <= upper) {
-                        return palindrome % 1337;
-                    }
+                    if (y >= low && y <= high)
+                        return pal % 1337;
                 }
             }
         }
