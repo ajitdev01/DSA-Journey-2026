@@ -923,6 +923,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
