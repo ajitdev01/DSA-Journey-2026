@@ -742,6 +742,7 @@ fail2ban-client status
 | [0041-first-missing-positive](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
@@ -1000,6 +1001,7 @@ fail2ban-client status
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
@@ -1068,6 +1070,7 @@ fail2ban-client status
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
@@ -1164,4 +1167,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0069-sqrtx) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
