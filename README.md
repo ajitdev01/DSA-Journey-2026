@@ -744,6 +744,7 @@ fail2ban-client status
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0220-contains-duplicate-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0220-contains-duplicate-iii) |
@@ -797,6 +798,7 @@ fail2ban-client status
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0041-first-missing-positive) |
+| [0140-word-break-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
@@ -928,6 +930,7 @@ fail2ban-client status
 | [0058-length-of-last-word](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0115-distinct-subsequences) |
+| [0140-word-break-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
@@ -946,6 +949,7 @@ fail2ban-client status
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
@@ -975,6 +979,7 @@ fail2ban-client status
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0115-distinct-subsequences) |
+| [0140-word-break-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
@@ -1171,4 +1176,12 @@ fail2ban-client status
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
