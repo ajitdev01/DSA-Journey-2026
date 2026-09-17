@@ -740,6 +740,7 @@ fail2ban-client status
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
@@ -909,6 +910,7 @@ fail2ban-client status
 | [0011-container-with-most-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0295-find-median-from-data-stream) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -977,6 +979,7 @@ fail2ban-client status
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0140-word-break-ii) |
@@ -1006,6 +1009,7 @@ fail2ban-client status
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
@@ -1075,6 +1079,7 @@ fail2ban-client status
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
