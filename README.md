@@ -826,6 +826,7 @@ fail2ban-client status
 | [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0335-self-crossing) |
+| [0367-valid-perfect-square](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 | [0458-poor-pigs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0479-largest-palindrome-product) |
@@ -861,6 +862,7 @@ fail2ban-client status
 | [0004-median-of-two-sorted-arrays](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0069-sqrtx) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
