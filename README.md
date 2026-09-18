@@ -913,6 +913,7 @@ fail2ban-client status
 | [0042-trapping-rain-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0295-find-median-from-data-stream) |
+| [1768-merge-strings-alternately](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -940,6 +941,7 @@ fail2ban-client status
 | [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1768-merge-strings-alternately](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3499-maximize-active-section-with-trade-i) |
