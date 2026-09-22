@@ -1,25 +1,20 @@
 class Solution {
 public:
-    int findContentChildren(vector<int>& g, vector<int>& s) {
-        sort(g.begin(), g.end());
-        sort(s.begin(), s.end());
+    int findContentChildren(vector<int>& student, vector<int>& cookie) {
+        sort(student.begin(), student.end());
+        sort(cookie.begin(), cookie.end());
 
-        int child = 0;
-        int cookie = 0;
-        int count = 0;
+        int studentPtr = 0;
 
-        while (child < g.size() && cookie < s.size()) {
+        for (int cookiePtr = 0;
+             studentPtr < student.size() && cookiePtr < cookie.size();
+             ++cookiePtr) {
 
-            if (s[cookie] >= g[child]) {
-                // Cookie can satisfy this child
-                count++;
-                child++;
+            if (cookie[cookiePtr] >= student[studentPtr]) {
+                ++studentPtr;
             }
-
-            // Move to next cookie
-            cookie++;
         }
 
-        return count;
+        return studentPtr;
     }
 };
