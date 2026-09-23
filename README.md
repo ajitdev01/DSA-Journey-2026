@@ -935,6 +935,7 @@ fail2ban-client status
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0067-add-binary) |
@@ -988,6 +989,7 @@ fail2ban-client status
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0115-distinct-subsequences) |
@@ -1056,6 +1058,7 @@ fail2ban-client status
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0231-power-of-two) |
