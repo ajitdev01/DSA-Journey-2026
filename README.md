@@ -770,6 +770,7 @@ fail2ban-client status
 | [0798-smallest-rotation-with-highest-score](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0850-rectangle-area-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0850-rectangle-area-ii) |
 | [0877-stone-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0877-stone-game) |
+| [0929-unique-email-addresses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0941-valid-mountain-array) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
@@ -807,6 +808,7 @@ fail2ban-client status
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
 | [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [0929-unique-email-addresses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -949,6 +951,7 @@ fail2ban-client status
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0929-unique-email-addresses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0929-unique-email-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
