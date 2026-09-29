@@ -814,6 +814,7 @@ fail2ban-client status
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
@@ -958,6 +959,7 @@ fail2ban-client status
 | [1768-merge-strings-alternately](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -993,6 +995,7 @@ fail2ban-client status
 | [0229-majority-element-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
