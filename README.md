@@ -760,6 +760,7 @@ fail2ban-client status
 | [0407-trapping-rain-water-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0628-maximum-product-of-three-numbers) |
@@ -979,6 +980,7 @@ fail2ban-client status
 | [0289-game-of-life](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0289-game-of-life) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0407-trapping-rain-water-ii) |
+| [0463-island-perimeter](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0463-island-perimeter) |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
@@ -1082,6 +1084,7 @@ fail2ban-client status
 | [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0407-trapping-rain-water-ii) |
+| [0463-island-perimeter](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0463-island-perimeter) |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 ## Number Theory
@@ -1137,6 +1140,7 @@ fail2ban-client status
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0463-island-perimeter) |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 ## Segment Tree
