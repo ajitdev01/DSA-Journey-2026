@@ -6,28 +6,24 @@ class Solution
         $cols = count($grid[0]);
         $perimeter = 0;
 
-        $dr = [-1, 1, 0, 0];
-        $dc = [0, 0, -1, 1];
-
         for ($r = 0; $r < $rows; $r++) {
             for ($c = 0; $c < $cols; $c++) {
 
-                if ($grid[$r][$c] == 1) {
+                if ($grid[$r][$c] == 0) {
+                    continue;
+                }
 
-                    for ($k = 0; $k < 4; $k++) {
+                // Every land cell has 4 sides
+                $perimeter += 4;
 
-                        $nr = $r + $dr[$k];
-                        $nc = $c + $dc[$k];
+                // Shared edge with upper cell
+                if ($r > 0 && $grid[$r - 1][$c] == 1) {
+                    $perimeter -= 2;
+                }
 
-                        // Outside grid OR water
-                        if (
-                            $nr < 0 || $nr >= $rows ||
-                            $nc < 0 || $nc >= $cols ||
-                            $grid[$nr][$nc] == 0
-                        ) {
-                            $perimeter++;
-                        }
-                    }
+                // Shared edge with left cell
+                if ($c > 0 && $grid[$r][$c - 1] == 1) {
+                    $perimeter -= 2;
                 }
             }
         }
