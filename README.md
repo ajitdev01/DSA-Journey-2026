@@ -945,6 +945,7 @@ fail2ban-client status
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0115-distinct-subsequences) |
@@ -1006,6 +1007,7 @@ fail2ban-client status
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0115-distinct-subsequences) |
@@ -1037,6 +1039,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
@@ -1232,6 +1235,7 @@ fail2ban-client status
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
