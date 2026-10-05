@@ -957,6 +957,7 @@ fail2ban-client status
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0929-unique-email-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1049,6 +1050,7 @@ fail2ban-client status
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1241,6 +1243,7 @@ fail2ban-client status
 | [0022-generate-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
