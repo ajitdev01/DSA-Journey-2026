@@ -1,21 +1,45 @@
+// class Solution {
+// public:
+//     int minAddToMakeValid(string s) {
+//         int open = 0;
+//         int ans = 0;
+
+//         for (char ch : s) {
+//             if (ch == '(') {
+//                 open++;
+//             } else {
+//                 if (open > 0) {
+//                     open--;
+//                 } else {
+//                     ans++;
+//                 }
+//             }
+//         }
+
+//         return ans + open;
+//     }
+// };
+
+
+
+////////
+
+
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int open = 0;
-        int ans = 0;
+        int balance = 0, ans = 0;
 
         for (char ch : s) {
             if (ch == '(') {
-                open++;
+                balance++;
+            } else if (balance > 0) {
+                balance--;
             } else {
-                if (open > 0) {
-                    open--;
-                } else {
-                    ans++;
-                }
+                ans++;
             }
         }
 
-        return ans + open;
+        return ans + balance;
     }
 };
