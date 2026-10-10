@@ -3,7 +3,7 @@ public:
     int count = 0;
 
     void dfs(int n, int cols, int diag1, int diag2) {
-        // All queens placed
+      
         if (cols == (1 << n) - 1) {
             count++;
             return;
