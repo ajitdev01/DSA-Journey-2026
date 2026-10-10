@@ -8,7 +8,7 @@ public:
         ListNode* prev = dummy;
 
         while (head) {
-            // Check if current node is the start of a duplicate sequence
+          
             if (head->next && head->val == head->next->val) {
                 // Skip all nodes with the same value
                 while (head->next && head->val == head->next->val) {
