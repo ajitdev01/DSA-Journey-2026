@@ -9,7 +9,6 @@ public:
             return;
         }
 
-        // Available positions
         int available = ((1 << n) - 1) & ~(cols | diag1 | diag2);
 
         while (available) {
