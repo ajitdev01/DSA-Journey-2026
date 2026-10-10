@@ -6,8 +6,7 @@ public:
             return;
         }
 
-        // Optimization: i <= n - (k - current.size()) + 1
-        // This prevents searching branches that cannot possibly reach length k
+      
         int limit = n - (k - current.size()) + 1;
         for (int i = start; i <= limit; ++i) {
             current.push_back(i);
