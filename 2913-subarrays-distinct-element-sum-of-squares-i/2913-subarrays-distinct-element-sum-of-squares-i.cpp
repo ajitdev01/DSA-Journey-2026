@@ -5,12 +5,14 @@ public:
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
-            unordered_set<int> st;
+            int freq[101] = {};
+            int distinct = 0;
 
             for (int j = i; j < n; j++) {
-                st.insert(nums[j]);
+                if (freq[nums[j]]++ == 0) {
+                    distinct++;
+                }
 
-                int distinct = st.size();
                 ans += distinct * distinct;
             }
         }
