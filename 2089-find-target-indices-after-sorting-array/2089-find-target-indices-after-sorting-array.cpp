@@ -15,11 +15,9 @@ public:
     auto first = lower_bound(nums.begin(), nums.end(), target);
     auto last = upper_bound(nums.begin(), nums.end(), target);
     vector<int> ans;
-
     for (auto it = first; it != last; ++it) {
        ans.push_back(it - nums.begin());
     }
-
     return ans;
       
     }
