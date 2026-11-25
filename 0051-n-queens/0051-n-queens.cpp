@@ -64,38 +64,93 @@
 
 
 
-class Solution {
-public:
-    vector<vector<string>> ans;
-    vector<int> col, diag1, diag2;
+// class Solution {
+// public:
+//     vector<vector<string>> ans;
+//     vector<int> col, diag1, diag2;
 
-    void solve(int row, int n, vector<string>& board) {
+//     void solve(int row, int n, vector<string>& board) {
+//         if (row == n) {
+//             ans.push_back(board);
+//             return;
+//         }
+
+//         for (int j = 0; j < n; j++) {
+//             if (col[j] || diag1[row - j + n - 1] || diag2[row + j])
+//                 continue;
+
+//             board[row][j] = 'Q';
+//             col[j] = diag1[row - j + n - 1] = diag2[row + j] = 1;
+
+//             solve(row + 1, n, board);
+
+//             board[row][j] = '.';
+//             col[j] = diag1[row - j + n - 1] = diag2[row + j] = 0;
+//         }
+//     }
+
+//     vector<vector<string>> solveNQueens(int n) {
+//         vector<string> board(n, string(n, '.'));
+//         col.assign(n, 0);
+//         diag1.assign(2 * n - 1, 0);
+//         diag2.assign(2 * n - 1, 0);
+
+//         solve(0, n, board);
+//         return ans;
+//     }
+// };
+
+
+
+
+
+
+
+
+///// more otimal aproch
+
+class Solution {
+private:
+    vector<vector<string>> ans;
+    vector<bool> col, diag1, diag2;
+
+    void backtrack(int row, int n, vector<string>& board) {
         if (row == n) {
             ans.push_back(board);
             return;
         }
 
         for (int j = 0; j < n; j++) {
-            if (col[j] || diag1[row - j + n - 1] || diag2[row + j])
+            int d1 = row - j + n - 1;
+            int d2 = row + j;
+
+            if (col[j] || diag1[d1] || diag2[d2])
                 continue;
 
+            // Place queen
             board[row][j] = 'Q';
-            col[j] = diag1[row - j + n - 1] = diag2[row + j] = 1;
+            col[j] = diag1[d1] = diag2[d2] = true;
 
-            solve(row + 1, n, board);
+            backtrack(row + 1, n, board);
 
+            // Backtrack
             board[row][j] = '.';
-            col[j] = diag1[row - j + n - 1] = diag2[row + j] = 0;
+            col[j] = diag1[d1] = diag2[d2] = false;
         }
     }
 
+public:
     vector<vector<string>> solveNQueens(int n) {
-        vector<string> board(n, string(n, '.'));
-        col.assign(n, 0);
-        diag1.assign(2 * n - 1, 0);
-        diag2.assign(2 * n - 1, 0);
+        ans.clear();
 
-        solve(0, n, board);
+        vector<string> board(n, string(n, '.'));
+
+        col.assign(n, false);
+        diag1.assign(2 * n - 1, false);
+        diag2.assign(2 * n - 1, false);
+
+        backtrack(0, n, board);
+
         return ans;
     }
 };
